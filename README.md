@@ -1,2 +1,2 @@
-# Automated-Elk-Stack-Deployment-Project-1
+# Automated-ELK-Stack-Deployment-Project-1
 Project-1
