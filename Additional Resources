@@ -1,0 +1,20 @@
+Daniel Ianculovici
+2/3/2022
+Cybersecurity Bootcamp
+
+# Additional Resources and links to Files:
+
+-Ansible Documentation:
+   Link: https://docs.ansible.com/ansible/latest/modules/modules_by_category.html
+   
+-Elk-docker Documentation:
+   Link: https://elk-docker.readthedocs.io/#Elasticsearch-logstash-kibana-elk-docker-image-documentation
+   
+-Virtual Memory Documentation:
+   Link: https://www.elastic.co/guide/en/elasticsearch/reference/current/vm-max-map-count.html
+   
+-Elk Server URL:
+   Link: http://[your.VM.IP]:5601/app/kibana
+   
+-Docker Commands Cheatsheet: 
+   Link: https://phoenixnap.com/kb/list-of-docker-commands-cheat-sheet
