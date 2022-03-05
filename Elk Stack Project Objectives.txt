@@ -5,7 +5,7 @@ Cybersecurity Bootcamp
 
 # Elk Stack Project Objectives:
 
-Activity 1 Day 1: Setting up Elk server
+# Activity 1 Day 1: Setting up Elk server
 
   -Deploying containers usng Ansible and Docker.
   -Deploying Filebeat using Ansible.
@@ -13,7 +13,7 @@ Activity 1 Day 1: Setting up Elk server
   -Drawing a network and creating a README.
   
   
-Activity 2 Day 2: Installing Filebeat/Metricbeat
+# Activity 2 Day 2: Installing Filebeat/Metricbeat
 
   -Installing Filebeat on the DVWA Container.
   -Creating the Filebeat Configuration File.
@@ -22,7 +22,7 @@ Activity 2 Day 2: Installing Filebeat/Metricbeat
   -Creating a Play to Install Metricbeat.
   
 
-Activity 3 Day 3: Exploring Kibana and drawing network diagram 
+# Activity 3 Day 3: Exploring Kibana and drawing network diagram 
   
   -Drafting a network diagram (https://app.diagrams.net/).
   -Exploring-Kibana.
