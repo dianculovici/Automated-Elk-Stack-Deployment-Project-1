@@ -49,7 +49,7 @@ The configuration details of each machine may be found below.
 
 | Name                   |  Function |      IP Address                            | Operating System |
 |------------------------|-----------|--------------------------------------------|------------------|
-| Jump- Box- Provisioner |  Gateway  |  10.0.0.4(Private)//52.***.2*8.106(Public) |       Linux      |
+| Jump- Box- Provisioner |  Gateway  |  10.0.0.4(Private)//52.2**.2*8.106(Public) |       Linux      |
 | ELK-VM                 | Server    | 10.1.0.4(Private)//168.**.2*8.110(Public)  |      Linux       |
 | Web1                   | Server    | 10.0.0.5(Private)                          |      Linux       |
 | Web2                   | Server    | 10.0.0.6(Private)                          |      Linux       |
