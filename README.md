@@ -101,3 +101,7 @@ The playbook implements the following tasks:
   - From the ansible docker(inspiring_wilbur) moved into /etc/ansible/ and created the ELK playbook(install-elk.yml). 
   - Ran the install-elk.yml file in the same directory (ansible-playbook install-elk.yml).
   - Lastly, SSH into the the ELK server (ssh sysadmin@10.1.0.4) to confirm it's up and running.
+
+The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
+
+[ELK-VM docker PS](<https://github.com/dianculovici/Automated-Elk-Stack-Deployment-Project-1/blob/ceef307bf2a4430c197954c37136b770f4800a5a/Diagrams/%20Cloud%20Security%20Diagram.png>) 
