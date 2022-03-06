@@ -35,3 +35,13 @@ What aspect of security do load balancers protect?
 What is the advantage of a jump box?
 
  - Jump-Box are secured that are used for non-admin tasks. As a result, jump-box has improved into an even more comprehensive/lock-down secure admin workstation to decrease the chances of hackers/malware infection.
+
+
+
+
+
+
+
+
+
+
