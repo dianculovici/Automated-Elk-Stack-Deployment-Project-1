@@ -74,5 +74,11 @@ Machines within the network can only be accessed by Jump-Box-Provisioner.
 
 A summary of the access policies in place can be found in the table below.
 
-
+|    Name                |  Publicly Accessible |      Allowed IP Addresses        |
+|:----------------------:|----------------------|----------------------------------|
+| Jump- Box- Provisioner |  Yes                 |  7#.#3.2#5.1#2                   |
+| ELK-VM                 | No                   | 10.0.0.4                         |
+| Web1                   | No                   | 10.0.0.4                         |
+| Web2                   | No                   | 10.0.0.4                         |
+| Web3                   | No                   | 10.0.0.4                         |
 
