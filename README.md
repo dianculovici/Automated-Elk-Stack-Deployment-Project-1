@@ -139,5 +139,5 @@ SSH into the control node and follow the steps below:
   
    -  Copy the filebeat-config.yml file to /etc/ansible/roles/files.
    -  Update the filebeat-config.yml file to include the ELK private IP in lines 1112 and 1812.
-   -  Run the playbook, and navigate to http://168.##.2#8.110:5601/(ELK-VM public IP) to check that the installation worked as expected.
+   -  Run the playbook, and navigate to http://168.##.2#8.110:5601/ (ELK-VM public IP) to check that the installation worked as expected.
 
