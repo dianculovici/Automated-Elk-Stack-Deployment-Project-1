@@ -36,6 +36,14 @@ What is the advantage of a jump box?
 
  - Jump-Box are secured that are used for non-admin tasks. As a result, jump-box has improved into an even more comprehensive/lock-down secure admin workstation to decrease the chances of hackers/malware infection.
 
+Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the network and system logs.
+- What does Filebeat watch for?
+
+  - It monitors any log file locations that you configure and directs to the Elasticsearch/Logstash for indexing.
+
+- What does Metricbeat record?
+
+  - It records metrics/statistics data and transports them to the output that you configure in Elasticsearch/Logstash.
 
 
 
