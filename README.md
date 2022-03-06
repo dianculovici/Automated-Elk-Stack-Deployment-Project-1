@@ -8,3 +8,5 @@ Daniel Ianculovici 2/3/2022 Cybersecurity Bootcamp
 [Cloud Security Diagram](<https://github.com/dianculovici/Automated-Elk-Stack-Deployment-Project-1/blob/ceef307bf2a4430c197954c37136b770f4800a5a/Diagrams/%20Cloud%20Security%20Diagram.png>) 
 
 *These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Cloud Security Diagram file may be used to install only certain pieces of it, such as Filebeat.
+
+[filebeat-playbook.yml]
