@@ -152,7 +152,10 @@ Answer the following questions to fill in the blanks:
    -  Which file is the playbook? filebeat-playbook.yml 
    -  Where do you copy it? /etc/ansible/roles
    -  Which file do you update to make Ansible run the playbook on a specific machine?  /etc/ansible/hosts file (update with IP of the Virtual Machine).
-   -  How do I specify which machine to install the ELK server on versus which to install Filebeat on?
+   -  How do I specify which machine to install the ELK server on versus which to install Filebeat on? Two seperate groups in the etc/ansible/hosts file. One of the groups will be webservers which has the IPs of the VMs that I will install Filebeat to. The other group is named elkservers which will have the IP of the VM I will install ELK to.
+   -  Which URL do you navigate to in order to check that the ELK server is running? http://168.##.2#8.110:5601/ 
+
+As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc.:
 
   
 
