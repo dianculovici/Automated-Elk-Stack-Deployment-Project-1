@@ -45,7 +45,7 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 
   - It records metrics/statistics data and transports them to the output that you configure in Elasticsearch/Logstash.
 
-
+The configuration details of each machine may be found below.
 
 
 
