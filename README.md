@@ -60,7 +60,7 @@ The configuration details of each machine may be found below.
 The machines on the internal network are not exposed to the public Internet. 
 
 Only the Jump-Box-Provisioner machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-  - 73.**.2*5.1*2(LocalHost IP address)
+  - 7*.*3.2*5.*7* (LocalHost IP address)
 
 Machines within the network can only be accessed by Jump-Box-Provisioner.
 
