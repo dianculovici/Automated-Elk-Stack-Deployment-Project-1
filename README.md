@@ -119,6 +119,7 @@ This ELK server is configured to monitor the following machines:
 We have installed the following Beats on these machines:
 
  - [Filebeat Module Status Screenshot](<https://github.com/dianculovici/Automated-Elk-Stack-Deployment-Project-1/blob/3010f796b79a2a3419ad2984eb8ece8c0fca3adb/Images/Filebeat_Module_Status.png>)
+ - [Metricbeat Module Status Screenshot](<https://github.com/dianculovici/Automated-Elk-Stack-Deployment-Project-1/blob/c1d357e33114ffd835b1de1438daf51c77ebd04a/Images/Metricbeat_Module_Status.png>)
  
 
 
