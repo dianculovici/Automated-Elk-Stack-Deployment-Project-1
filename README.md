@@ -83,3 +83,9 @@ A summary of the access policies in place can be found in the table below.
 | Web3                   | No                   | 10.0.0.4                         |
 
 - --All these VMs can only be accessed from the Jump-Box-Provisioner--
+
+### Elk Configuration
+
+Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because...
+
+- What is the main advantage of automating configuration with Ansible?
