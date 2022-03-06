@@ -70,7 +70,7 @@ Machines within the network can only be accessed by Jump-Box-Provisioner.
 
 - What was its IP address?
 
-  - 10.0.0.4 
+  - 10.0.0.4 (Private)
 
 A summary of the access policies in place can be found in the table below.
 
