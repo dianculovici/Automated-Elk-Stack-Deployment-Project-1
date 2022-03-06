@@ -82,3 +82,4 @@ A summary of the access policies in place can be found in the table below.
 | Web2                   | No                   | 10.0.0.4                         |
 | Web3                   | No                   | 10.0.0.4                         |
 
+- --All these VMs can only be accessed from the Jump-Box-Provisioner--
