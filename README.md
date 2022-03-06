@@ -72,3 +72,7 @@ Machines within the network can only be accessed by Jump-Box-Provisioner.
 
   - 10.0.0.4 
 
+A summary of the access policies in place can be found in the table below.
+
+
+
