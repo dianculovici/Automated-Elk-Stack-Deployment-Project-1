@@ -21,3 +21,17 @@ Daniel Ianculovici 2/3/2022 Cybersecurity Bootcamp
   - Machines Being Monitored
 - How to Use the Ansible Build
 
+### Description of the Topology
+
+The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the Dmn Vulnerable Web Application.
+
+- Load balancing ensures that the application will be highly functional, in addition to restricting high-traffic to the network.
+
+What aspect of security do load balancers protect? 
+
+ - Load balancing help servers prevent overloading as well as optimizes productivety and maximes uptime.
+ - It also adds resiliency by rerouting live traffic from one server to another causing it to eliminate single points of failure from attacks such as DDoS attack.
+
+What is the advantage of a jump box?
+
+ - Jump-Box are secured that are used for non-admin tasks. As a result, jump-box has improved into an even more comprehensive/lock-down secure admin workstation to decrease the chances of hackers/malware infection.
