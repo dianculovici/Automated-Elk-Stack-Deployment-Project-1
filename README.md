@@ -157,5 +157,9 @@ Answer the following questions to fill in the blanks:
 
 As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc:
 
+  ---Filebeat---
   
+  - To create the filebeat-config.yml file: nano filebeat-config.yml. To create this file, I used the filebeat configuration file template. 
+  
+  - To create the playbook: nano filbeat-playbook.yml
 
