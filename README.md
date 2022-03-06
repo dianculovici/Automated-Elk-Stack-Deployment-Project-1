@@ -134,7 +134,10 @@ These Beats allow us to collect the following information from each machine:
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
 
 SSH into the control node and follow the steps below:
+
+--Filebeat--
   
    -  Copy the filebeat-config.yml file to /etc/ansible/roles/files.
-
+   -  Update the filebeat-config.yml file to include the ELK private IP in lines 1112 and 1812.
+   -  Run the playbook, and navigate to http://168.##.2#8.110:5601/(ELK-VM public IP) to check that the installation worked as expected.
 
