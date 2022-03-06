@@ -3,7 +3,7 @@ Daniel Ianculovici
 Cybersecurity Bootcamp
 
 
-# filebeat-config.yml.txt
+# filebeat-config.yml.
 
 root@575b5ab10f85:/etc/ansible# nano ansible.cfg 
 root@575b5ab10f85:/etc/ansible# nano ansible.cfg 
@@ -2379,17 +2379,7 @@ logging.files:
 # Define which the permissions that should be applied to the named pipe, use the Security
 # Descriptor Definition Language (SDDL) to define the permission. This option cannot be used with
 # `http.user`.
-#http.named_pipe.security_descriptor:
-
-#============================= Process Security ================================
-
-# Enable or disable seccomp system call filtering on Linux. Default is enabled.
-#seccomp.enabled: true
-
-#================================= Migration ==================================
-
-# This allows to enable 6.7 migration aliases
-#migration.6_to_7.enabled: false
+#http.named_pipe.security_descriptor
 
 
 
