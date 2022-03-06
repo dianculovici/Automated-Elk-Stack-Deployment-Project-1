@@ -13,4 +13,11 @@ Daniel Ianculovici 2/3/2022 Cybersecurity Bootcamp
 
 [filebeat-config.yml](https://github.com/dianculovici/Automated-Elk-Stack-Deployment-Project-1/blob/40fce64f9666d1dfec0dc4143fc246613bbd5fee/Linux/filebeat-config.yml.txt)
 
+*This document contains the following details:
+- Description of the Topology
+- Access Policies
+- ELK Configuration
+  - Beats in Use
+  - Machines Being Monitored
+- How to Use the Ansible Build
 
