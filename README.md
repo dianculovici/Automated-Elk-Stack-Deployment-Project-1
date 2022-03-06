@@ -11,4 +11,6 @@ Daniel Ianculovici 2/3/2022 Cybersecurity Bootcamp
 
 [filebeat-playbook.yml](https://github.com/dianculovici/Automated-Elk-Stack-Deployment-Project-1/blob/242dc7572a3960fcfe4df688e4be8449d69438c5/Ansible/filebeat-playbook.yml.txt)
 
-[filebeat-config.yml]
+[filebeat-config.yml](https://github.com/dianculovici/Automated-Elk-Stack-Deployment-Project-1/blob/242dc7572a3960fcfe4df688e4be8449d69438c5/Linux/filebeat-config.yml.txt)
+
+
