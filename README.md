@@ -96,8 +96,8 @@ The playbook implements the following tasks:
 
 - In 3-5 bullets, explain the steps of the ELK installation play E.g., install Docker; download image; etc.:
   
-  - Begin by SSH into the Jump-Box-Provisioner (ssh sysadmin@52.2##.2#8.106)
-  - From the Jump-Box-Provisioner start and attach to the ansible docker (sudo docker container start inspiring_wilbur)(sudo docker container attach inspiring_wilbur)
-  - From the ansible docker(inspiring_wilbur) moved into /etc/ansible/ and created the ELK playbook(install-elk.yml) 
-  - Ran the install-elk.yml file in the same directory (ansible-playbook install-elk.yml)
-  - Lastly, SSH into the the ELK server (ssh sysadmin@10.1.0.4) to confirm it's up and running
+  - Begin by SSH into the Jump-Box-Provisioner (ssh sysadmin@52.2##.2#8.106).
+  - From the Jump-Box-Provisioner start and attach to the ansible docker (sudo docker container start inspiring_wilbur)(sudo docker container attach inspiring_wilbur).
+  - From the ansible docker(inspiring_wilbur) moved into /etc/ansible/ and created the ELK playbook(install-elk.yml). 
+  - Ran the install-elk.yml file in the same directory (ansible-playbook install-elk.yml).
+  - Lastly, SSH into the the ELK server (ssh sysadmin@10.1.0.4) to confirm it's up and running.
