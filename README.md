@@ -161,5 +161,5 @@ As a **Bonus**, provide the specific commands the user will need to run to downl
   
   - To create the filebeat-config.yml file: nano filebeat-config.yml. To create this file, I used the filebeat configuration file template. 
   
-  - To create the playbook: nano filbeat-playbook.yml
+  - To create the playbook: nano filebeat-playbook.yml
 
