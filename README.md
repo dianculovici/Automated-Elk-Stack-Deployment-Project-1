@@ -55,7 +55,20 @@ The configuration details of each machine may be found below.
 | Web2                   | Server    | 10.0.0.6(Private)                          |      Linux       |
 | Web3                   | Server    | 10.0.0.7(Private)                          |      Linux       |
 
+### Access Policies
 
+The machines on the internal network are not exposed to the public Internet. 
 
+Only the Jump-Box-Provisioner machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
+  - 73.**.2*5.1*2(LocalHost IP address)
 
+Machines within the network can only be accessed by Jump-Box-Provisioner.
+
+- Which machine did you allow to access your ELK VM?
+
+  - Jump-Box-Provisioner
+
+- What was its IP address?
+
+  - 10.0.0.4 
 
