@@ -157,6 +157,7 @@ Answer the following questions to fill in the blanks:
 
 As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc:
 
+<img width="1424" alt="CleanShot 2022-03-06 at 19 35 39@2x" src="https://user-images.githubusercontent.com/25046544/156949627-3f6ba351-53b4-4acb-a759-5da4fafe07e4.png">
+
 <img width="1098" alt="CleanShot 2022-03-06 at 19 18 59@2x" src="https://user-images.githubusercontent.com/25046544/156948863-95563488-0fc0-4f5b-bc29-de15e0798593.png">
-<img width="1190" alt="CleanShot 2022-03-06 at 19 25 05@2x" src="https://user-images.githubusercontent.com/25046544/156949154-6def9ebb-de75-48ce-9035-aa137c8e899c.png">
 
