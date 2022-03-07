@@ -159,5 +159,4 @@ As a **Bonus**, provide the specific commands the user will need to run to downl
 
 <img width="1424" alt="CleanShot 2022-03-06 at 19 35 39@2x" src="https://user-images.githubusercontent.com/25046544/156949627-3f6ba351-53b4-4acb-a759-5da4fafe07e4.png">
 
-<img width="1098" alt="CleanShot 2022-03-06 at 19 18 59@2x" src="https://user-images.githubusercontent.com/25046544/156948863-95563488-0fc0-4f5b-bc29-de15e0798593.png">
 
