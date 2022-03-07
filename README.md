@@ -102,7 +102,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-[ELK-VM docker PS](<https://github.com/dianculovici/Automated-Elk-Stack-Deployment-Project-1/blob/ceef307bf2a4430c197954c37136b770f4800a5a/Diagrams/%20Cloud%20Security%20Diagram.png>) 
+[ELK-VM docker PS](<https://github.com/dianculovici/Automated-Elk-Stack-Deployment-Project-1/blob/c3620f8dabc0c522925ae2b0ca2f02cf6a5bc067/Images/ELK-VM%20Docker%20PS.PNG.png>) 
 
 ### Target Machines & Beats
 
