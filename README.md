@@ -94,11 +94,12 @@ Ansible was used to automate configuration of the ELK machine. No configuration 
 
 The playbook implements the following tasks:
   
-  - Begin by SSH into the Jump-Box-Provisioner (ssh sysadmin@52.2##.2#8.106).
-  - From the Jump-Box-Provisioner start and attach to the ansible docker (sudo docker container start inspiring_wilbur)(sudo docker container attach inspiring_wilbur).
-  - From the ansible docker(inspiring_wilbur) moved into /etc/ansible/ and created the ELK playbook(install-elk.yml). 
-  - Ran the install-elk.yml file in the same directory (ansible-playbook install-elk.yml).
-  - Lastly, SSH into the the ELK server (ssh sysadmin@10.1.0.4) to confirm it's up and running.
+  - Install docker.io
+  - Install python3-pip
+  - Install Docker module
+  - Use more memory 
+  - Download and launch a docker elk container
+  - Enable service docker on boot
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
