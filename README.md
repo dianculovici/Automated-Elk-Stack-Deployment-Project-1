@@ -29,7 +29,7 @@ The main purpose of this network is to expose a load-balanced and monitored inst
 
 What aspect of security do load balancers protect? 
 
- - Load balancing help servers prevent overloading as well as optimizes productivety and maximes uptime.
+ - Load balancing help servers prevent overloading as well as optimizes productivity and maximizes uptime.
  - It also adds resiliency by rerouting live traffic from one server to another causing it to eliminate single points of failure from attacks such as DDoS attack.
 
 What is the advantage of a jump box?
@@ -77,12 +77,12 @@ A summary of the access policies in place can be found in the table below.
 |    Name                |  Publicly Accessible |      Allowed IP Addresses        |
 |:----------------------:|----------------------|----------------------------------|
 | Jump- Box- Provisioner |  Yes                 |  7#.#3.2#5.1#2                   |
-| ELK-VM                 | No                   | 10.0.0.4                         |
+| ELK-VM                 | Yes                  | 168.##.2#8.110                   |
 | Web1                   | No                   | 10.0.0.4                         |
 | Web2                   | No                   | 10.0.0.4                         |
 | Web3                   | No                   | 10.0.0.4                         |
 
-- --All these VMs can only be accessed from the Jump-Box-Provisioner--
+---All these VMs can only be accessed from the Jump-Box-Provisioner--
 
 ### Elk Configuration
 
