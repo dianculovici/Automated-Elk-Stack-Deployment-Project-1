@@ -5,7 +5,7 @@ Daniel Ianculovici 2/3/2022 Cybersecurity Bootcamp
 
 *The files in this repository were used to configure the network depicted below.
 
-![ Cloud Security Diagram](https://user-images.githubusercontent.com/25046544/157902682-67d55b11-3416-48d3-859c-62084f979e78.png)
+![ Cloud Security Diagram](https://user-images.githubusercontent.com/25046544/157903665-b7787219-829c-4774-8833-30e18a94bfa6.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Cloud Security Diagram file may be used to install only certain pieces of it, such as Filebeat.
 
